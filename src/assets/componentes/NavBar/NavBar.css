@@ -1,0 +1,15 @@
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid yellowgreen;
+}
+h1{
+    font-size: 30px;
+    color: blue;
+    font-weight: bold;
+}
+li{
+    display: inline-block;
+    margin: 6px;
+}

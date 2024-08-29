@@ -1,0 +1,7 @@
+.imagen{
+    width: 60px;
+    height: auto;
+}
+.ladoizq{
+    justify-content: flex-start;
+}
